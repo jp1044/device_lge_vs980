@@ -16,7 +16,8 @@
 
 include device/lge/g2-common/BoardConfigCommon.mk
 
-TARGET_KERNEL_CONFIG := cyanogenmod_vs980_defconfig
+#TARGET_KERNEL_CONFIG := cyanogenmod_vs980_defconfig
+TARGET_KERNEL_CONFIG := g2-vzw-perf_defconfig
 
 TARGET_OTA_ASSERT_DEVICE := vs980,g2,galbi
 
