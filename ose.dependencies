@@ -15,8 +15,8 @@
     "branch":      "cm-12.0"
   },
   {
-    "repository":  "CyanogenMod/android_device_qcom_common",
+    "repository":  "SlimRoms/device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":      "cm-12.0"
+    "branch":      "lp5.0"
   }
 ]
