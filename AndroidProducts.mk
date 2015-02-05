@@ -14,5 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_vs980.mk \
     $(LOCAL_DIR)/aosp_vs980.mk

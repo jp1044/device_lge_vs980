@@ -7,7 +7,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vs980
-PRODUCT_NAME := full_vs980
+PRODUCT_NAME := aosp_vs980
 PRODUCT_BRAND := LGE
 PRODUCT_MODEL := LG-VS980
 PRODUCT_MANUFACTURER := lge
