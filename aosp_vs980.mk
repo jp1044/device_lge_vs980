@@ -20,7 +20,3 @@ PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
 # Inherit device configuration
 $(call inherit-product, device/lge/vs980/device.mk)
-
-PRODUCT_PACKAGES += \
-    FileManager \
-    Launcher3
